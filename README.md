@@ -2,4 +2,4 @@
 
 https://melody-lii.github.io/plotly_deploy/.
 
-![] (image/image.png)
+![](image/image.png)
